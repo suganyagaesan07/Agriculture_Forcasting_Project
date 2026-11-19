@@ -1,0 +1,11 @@
+Warehouse_ID,Warehouse_Name,District_Name,Storage_Capacity_Tonnes
+W01,Thanjavur Central Warehouse,Thanjavur,7000
+W02,Coimbatore Central Warehouse,Coimbatore,8500
+W03,Erode Central Warehouse,Erode,10000
+W04,Madurai Central Warehouse,Madurai,11500
+W05,Salem Central Warehouse,Salem,7000
+W06,Tiruchirappalli Central Warehouse,Tiruchirappalli,8500
+W07,Thiruvarur Central Warehouse,Thiruvarur,10000
+W08,Dindigul Central Warehouse,Dindigul,11500
+W09,Villupuram Central Warehouse,Villupuram,7000
+W10,Cuddalore Central Warehouse,Cuddalore,8500
